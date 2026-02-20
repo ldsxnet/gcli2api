@@ -1,4 +1,4 @@
-full_hash=57f5d04a1fba6d916073f13262f6f154ad1cd92d
-short_hash=57f5d04
-message=Update log.py
-date=2026-02-18 21:07:22 +0800
+full_hash=4895c3c074056351950d0c7a7ce9939cce2d4f2e
+short_hash=4895c3c
+message=Add 'gemini-3.1-pro-preview' to BASE_MODELS
+date=2026-02-20 09:03:19 +0800
